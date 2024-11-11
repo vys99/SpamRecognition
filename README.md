@@ -5,7 +5,7 @@ Here I used Naive Bayes algorithm for classification purpose and used Streamlit 
 
 other libraries:
 
-sklearn
-pandas
-numpy
+sklearn-
+pandas-
+numpy-
 streamlit
